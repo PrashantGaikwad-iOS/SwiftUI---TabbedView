@@ -26,6 +26,7 @@ struct ContentView : View {
                     Text("User")
                 ).tag(2)
             
+            // TabbedView with Image and Label
 //            Settings()
 //                .tabItemLabel(VStack {
 //                    Image(systemName: "photos")
